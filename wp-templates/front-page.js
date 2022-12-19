@@ -55,6 +55,7 @@ export default function Component() {
             <Heading className={styles.heading} level="h1">
               Welcome to your Blueprint
             </Heading>
+            <h2>rat</h2>
             <p className={styles.description}>
               Achieve unprecedented performance with modern frameworks and the
               world&apos;s #1 open source CMS in one powerful headless platform.{' '}
